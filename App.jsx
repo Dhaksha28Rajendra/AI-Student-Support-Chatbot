@@ -807,7 +807,7 @@ function App() {
             showWelcome ? "title title--hero" : "title title--compact"
           }
         >
-          AI Student Support Chatbot
+          Student Sphere AI
         </h1>
 
         <div

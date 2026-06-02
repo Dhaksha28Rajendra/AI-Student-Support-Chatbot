@@ -846,3 +846,24 @@ body {
     width: 100%;
   }
 }
+
+.image-preview {
+  width: 120px;
+  max-height: 120px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid #d8c9bc;
+  margin-bottom: 10px;
+}
+
+.file-details {
+  flex: 1;
+}
+
+.remove-file-btn {
+  background: transparent;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: #8b0000;
+}
