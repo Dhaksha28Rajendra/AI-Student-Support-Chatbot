@@ -1,7 +1,7 @@
-AI Student Support Chatbot
-Overview
+Student Sphere AI - Student Support Chatbot
 
-The AI Student Support Chatbot is a full-stack conversational AI platform designed to assist students with academic support, learning assistance, explanations, and general information through natural language interactions.
+Overview
+Student Sphere AI is a full-stack conversational AI platform designed to assist students with academic support, learning assistance, explanations, and general information through natural language interactions.
 
 The application combines React, FastAPI, and Google's Gemini AI model to provide a modern ChatGPT-inspired experience with persistent chat history, file attachments, intelligent conversation management, and theme customization.
 
