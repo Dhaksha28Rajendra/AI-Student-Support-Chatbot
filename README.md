@@ -42,23 +42,28 @@ Ask → Understand → Respond → Continue Learning
 - AI-generated responses using Google Gemini
 - Academic explanations and learning assistance
 - Context-aware conversational interactions
+
 💬 Chat Management
 - Create new conversations
 - Maintain multiple chat sessions
 - Switch between conversations
 - Continue previous conversations
 - Manage conversation history
+
 📎 File Support
 - Attach supported files to conversations
 - Use uploaded content as part of AI-assisted interactions
 - Provide additional context for questions
+
 💾 Data Persistence
 - Persistent conversation data using browser local storage
 - Conversations remain available between sessions
 - Local storage-based state management
+
 📤 Conversation Export
 - Export conversation content
 - Preserve useful AI-assisted discussions for future reference
+
 🎨 User Experience
 - Modern ChatGPT-inspired interface
 - Responsive user interface
@@ -114,8 +119,8 @@ Ask → Understand → Respond → Continue Learning
                  │
                  ▼
        ┌──────────────────┐
-       │ Open Student      │
-       │ Sphere AI         │
+       │ Open Student     │
+       │ Sphere AI        │
        └────────┬─────────┘
                 │
                 ▼
